@@ -1,4 +1,4 @@
-Ball-and-Cup-Trick
+Ball and Cup Trick
 ====================
 
 This is a simulation of the ball and cup trick. The trick is to follow the cup with the ball, while the magician switches the cups around.
